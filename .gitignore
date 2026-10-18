@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 원본 사진·영상 (수십 GB, git에 올리지 않음)
+Pic&Videos/
+
+# 피드 생성 중간 파일, 참고용 타사 캡처 (올리지 않음)
+.cache/
+reference/

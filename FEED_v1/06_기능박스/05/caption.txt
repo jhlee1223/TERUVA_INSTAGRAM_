@@ -1,0 +1,3 @@
+선반 한 칸 한 칸.
+칸마다 와인을 나란히 눕혀 두는 구조입니다.
+Shelf by shelf, bottle by bottle.
