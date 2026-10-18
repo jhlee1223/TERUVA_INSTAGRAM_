@@ -58,7 +58,7 @@ FOOTER = """.
 .
 .
 .
-#TERUVA #Wine #Wine Sellar #Wine Cabinet #와인냉장고
+#TERUVA #Wine #WineCellar #WineCabinet #와인냉장고
 URL: https://teruva.io
 """
 
